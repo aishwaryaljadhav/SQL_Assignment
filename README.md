@@ -17,4 +17,4 @@ and much more...
 
 We worked on problems like analyzing product sales by date, calculating department-wise salaries and performing sales trend analysis using window functions.
 
-The goal of this assignment was to understand how SQL can be used not just for data retrieval, but for data manippulation.
+The goal of this assignment was to understand how SQL can be used not just for data retrieval, but for data manipulation.
